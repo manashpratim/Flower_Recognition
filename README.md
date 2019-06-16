@@ -7,4 +7,4 @@ The dataset is available for download at https://www.kaggle.com/alxmamaev/flower
 I have built a simple convolutional neural network (CNN) using tensorflow and keras to classify the flowers. 
 
 # Note
-The goal of this project is not to improve accuracy of this CNN model but to provide a code that can be used in a range of image classification problems with minor tweaks.
+Here my aim is not to improve accuracy of this CNN model but to provide a code that can be used in a range of image classification problems with minor tweaks.
